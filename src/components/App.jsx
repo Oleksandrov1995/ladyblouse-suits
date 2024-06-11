@@ -10,7 +10,7 @@ export const App = () => {
     <>
       <div className="container">
         <Routes>
-          <Route path="/ladyblouse-suits.pp.ua" element={<MainPage />} />
+          <Route path="/" element={<MainPage />} />
           <Route path="/product/:id" element={<Products />} />
           <Route path='/agreement' element={<AgreementPage/>}/>
         </Routes>
