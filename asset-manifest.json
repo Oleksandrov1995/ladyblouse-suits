@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/css/main.1c8dd9bf.css",
-    "main.js": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/js/main.d0ec3712.js",
+    "main.js": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/js/main.d41d70f0.js",
     "static/media/mainImage.jpg": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/media/mainImage.17430e9902f2f9d81651.jpg",
     "static/media/softBlack2.jpg": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/media/softBlack2.d18cc551c219ec7b2b7d.jpg",
     "static/media/overWhite.jpg": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/media/overWhite.4802ef5a1f39a8010332.jpg",
@@ -65,10 +65,10 @@
     "static/media/logo1.jpg": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/media/logo1.051c716fd5532611781a.jpg",
     "index.html": "/Oleksandrov1995/ladyblouse-suits.pp.ua/index.html",
     "main.1c8dd9bf.css.map": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/css/main.1c8dd9bf.css.map",
-    "main.d0ec3712.js.map": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/js/main.d0ec3712.js.map"
+    "main.d41d70f0.js.map": "/Oleksandrov1995/ladyblouse-suits.pp.ua/static/js/main.d41d70f0.js.map"
   },
   "entrypoints": [
     "static/css/main.1c8dd9bf.css",
-    "static/js/main.d0ec3712.js"
+    "static/js/main.d41d70f0.js"
   ]
 }
